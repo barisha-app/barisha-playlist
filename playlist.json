@@ -7,9 +7,21 @@
   },
   {
     "title": "Feyenoord - Fenerbahçe",
-    "group": "Maçlar",
+    "group": "özetler",
     "type": "youtube",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/YouTube_icon.png",
     "url": "https://www.youtube.com/watch?v=YGLCdezC7PQ"
+  },
+  {
+    "title": "33 Kişi 700 Metre Derinlikte Nasıl Mahsur Kaldı? - Diri Diri Gömüldüler!",
+    "group": "belgesel",
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=m4WA-HuZINA"
+  },
+  {
+    "title": "Test MP4",
+    "group": "Filmler",
+    "type": "direct",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
   }
 ]
