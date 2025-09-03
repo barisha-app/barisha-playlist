@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Feyenoord - Fenerbahçe",
+    "group": "Maçlar",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/YouTube_icon.png",
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=YGLCdezC7PQ"
+  },
+  {
+    "title": "Aşk Tuzağı",
+    "group": "Filmler",
+    "logo": "",
+    "type": "direct",
+    "url": "https://vctplay.site/manifests/ZRn2luxp_IHj/master.m3u8"
+  }
+]
